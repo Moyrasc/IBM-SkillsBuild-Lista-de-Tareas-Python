@@ -4,8 +4,6 @@
 
 ## Gestor de Tareas en Python (Caso Práctico Final)
 
-![Ejercicio](ejercicio.png)
-
 Este es un programa en Python que gestiona una lista de tareas pendientes utilizando Programación Orientada a Objetos (POO). Permite al usuario agregar nuevas tareas, marcar tareas como completadas, mostrar todas las tareas pendientes y eliminar tareas de la lista.
 
 ## Características
