@@ -103,7 +103,7 @@ class TaskList:
 task_list = TaskList()
 
 
-# Imprimir el encabezado de la lista de tareas con estilo Cyan brillante
+# Imprimir el encabezado de la lista de tareas
 print(Fore.CYAN + Style.BRIGHT + "\n***************************************************")
 print("                MI LISTA DE TAREAS              ")
 print("***************************************************" + Style.RESET_ALL)
@@ -149,7 +149,6 @@ while True:
         else:
             print("No hay tareas para eliminar.")  # Mostrar un mensaje si no hay tareas para eliminar
     elif opcion == "5":
-        # Salir del bucle si el usuario selecciona la opción de salir
         break
     else:
         # Mostrar un mensaje de error si se selecciona una opción no válida
